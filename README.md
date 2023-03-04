@@ -20,8 +20,8 @@ Change the dataset path in \SFM\Demo\SFMTankCircle.m(Line 3).
 Run \SFM\Demo\SFMTankCircle.m.
 
 # Paper
-```
 If you find our method usedful, please cite our paper.
+```
 @article{刘青松2021聚焦型光场相机等效多相机模型及其运动恢复结构应用,
   title={聚焦型光场相机等效多相机模型及其运动恢复结构应用},
   author={刘青松 and 谢晓方 and 张烜喆 and 田瑜 and 许晓军},
